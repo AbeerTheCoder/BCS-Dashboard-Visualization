@@ -6,7 +6,7 @@ The BCS Dashboard Project was developed to deliver a clear, interactive business
 
 ## Project Timeline
 
-- creation date: March 2025
+- **Creation Date**: March 2025
 
 ## Key Features
 
@@ -17,9 +17,9 @@ The BCS Dashboard Project was developed to deliver a clear, interactive business
 
 ## Files Included
 
-- BCS Dashboard - Power BI.pbix — Power BI dashboard file
-- BCS Dashboard - Tableau.twbx — Tableau workbook file
-- BCS Dashboard - Excel.xlsx — Excel data source file
+- BCS Dashboard - Power BI.pbix - Power BI dashboard file
+- BCS Dashboard - Tableau.twbx - Tableau workbook file
+- BCS Dashboard - Excel.xlsx - Excel data source file
 
 ## How to Use
 
