@@ -1,7 +1,12 @@
 # BCS-Dashboard-Visualization (Project of 2)
 
-The BCS Dashboard Project was developed between 28th March and 31st March 2025 to deliver a clear, interactive business dashboard solution. The project uses Power BI and Tableau for creating dynamic visualizations and relies on Excel as the underlying data source. Each dashboard version allows users to explore key business metrics through filters, charts, and drill-down features, supporting data-driven decisions across platforms.
+## Overview
 
+The BCS Dashboard Project was developed to deliver a clear, interactive business dashboard solution. The project uses Power BI and Tableau for creating dynamic visualizations and relies on Excel as the underlying data source. Each dashboard version allows users to explore key business metrics through filters, charts, and drill-down features, supporting data-driven decisions across platforms.
+
+## Project Timeline
+
+- creation date: March 2025
 
 ## Key Features
 
@@ -10,13 +15,11 @@ The BCS Dashboard Project was developed between 28th March and 31st March 2025 t
 - Filters, slicers, and visual elements for easy navigation
 - Multi-platform approach for flexibility
 
-
 ## Files Included
 
 - BCS Dashboard - Power BI.pbix — Power BI dashboard file
 - BCS Dashboard - Tableau.twbx — Tableau workbook file
 - BCS Dashboard - Excel.xlsx — Excel data source file
-
 
 ## How to Use
 
